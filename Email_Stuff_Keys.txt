@@ -1,0 +1,8 @@
+Mysql - email_stuff --> 123456email
+
+AWS RDS - emailstuffdatabase:
+mysqldatabase.czdvs0q8jq0t.ap-northeast-2.rds.amazonaws.com --> admin --> email123456
+
+
+IP address:
+172.30.1.61
